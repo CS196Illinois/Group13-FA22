@@ -6,4 +6,4 @@ MVP LINK: https://docs.google.com/document/d/1YFbDtP7x6DcqIePIweUxt3_vzFK5BF9Q3M
 
 Team Members: STUDENTS_NETIDS
 
-Project Manager: PM_NETID
+Project Manager: premd2
