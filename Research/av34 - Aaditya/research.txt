@@ -1,0 +1,6 @@
+Idea:
+Using Machine Learning algorithms to improve water supply systems across a fixed size of land. Effective, equitable water distribution is important for communities sharing water resources. I find remarkable similarity in the requirements of robust, resilient water distributions systems and computer networks powering the Internet. 
+
+Network routing algorithms find the best route among the options based on the configured route metrics such as the number of hops, distance, speed, connection quality etc. I want to research and implement a solution that has the potential to leverage the network routing protocols for community water distribution management systems by modelling water analogous to data in network systems. 
+Environment:
+Cloud Services, IoT based device and IMU
