@@ -1,1 +1,9 @@
 
+Idea: Using either webscraping or APIs to gather data and create an application that informs you about the best prices for your medicine.
+
+We would obviously need to train a mode that can find the correct medicine after you input it into the platform and then analyze the value of a given sales posting.
+
+Article: https://www.intelligencenode.com/blog/how-to-classify-match-products-with-machine-learning/amp/
+
+List: https://www.shopify.com/blog/7068398-10-best-comparison-shopping-engines-to-increase-ecommerce-sales
+
